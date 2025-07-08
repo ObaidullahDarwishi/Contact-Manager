@@ -24,3 +24,11 @@ Each contact stores:
 - Binary Search (custom implementation)
 
 
+## Why I Built This
+
+This project was created to strengthen my understanding of core Java concepts such as object-oriented programming, data structures, and algorithms. By building a real-world application like a contact manager, I was able to apply techniques like merge sort and binary search in a practical, user-focused way.
+
+## Author
+Created as a practice project to reinforce Java fundamentals, data structures, and algorithm implementation.
+
+
